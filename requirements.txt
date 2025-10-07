@@ -2,6 +2,6 @@ fastapi
 uvicorn
 pandas
 numpy
-scikit-learn==1.3.2
+scikit-learn==1.7.1
 pydantic
 python-multipart
